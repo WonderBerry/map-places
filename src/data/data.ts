@@ -10,6 +10,8 @@ export default [
       coordinates: [37.622239132640516, 55.75520139877594]
     }
   },
+
+
   {
     type: 'Feature',
     properties: {
