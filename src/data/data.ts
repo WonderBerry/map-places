@@ -36,6 +36,7 @@ export default [
   },
   // first
   // seconde commit
+  // third
   {
     type: 'Feature',
     properties: {
