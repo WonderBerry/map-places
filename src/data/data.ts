@@ -46,6 +46,8 @@ export default [
       type: 'Point',
       coordinates: [37.71836950373449, 55.79961162610067]
     }
+
+
   }
 ]
 //dkjfnkdjfn
